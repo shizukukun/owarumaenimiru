@@ -1,0 +1,13 @@
+{
+  "manifest_version": 2,
+  "name": "終わる前に見る",
+  "description": "バンダイチャンネル見放題作品で終わりそうなやつを取得します。",
+  "version": "1.0",
+  "browser_action": {
+    "default_popup": "main.html"
+  },
+  "permissions": [
+    "http://www.b-ch.com/"
+  ]
+}
+
